@@ -4,8 +4,7 @@
     "description": "Extension for clb Robots micro:bit",
     "license": "MIT",
     "dependencies": {
-        "core": "*",
-        "neopixel": "github:microsoft/pxt-neopixel#v0.6.9"
+        "core": "*"
     },
     "files": [
         "README.md",
