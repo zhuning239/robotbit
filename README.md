@@ -1,2 +1,2 @@
-# robotbit
-单独robotbit 不加其他库
+# makerobot
+这个库是Robot micro:bit 扩展板使用！
